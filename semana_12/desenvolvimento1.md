@@ -34,3 +34,46 @@ os computadores quânticos podem processar múltiplas informações simultaneame
 | Componentes              | Transistores                        | Qubits (supercondutores, íons, fótons)        |
 | Memória                  | RAM, SSD                            | Estados quânticos efêmeros                    |
 | Aplicações Ideais        | Computação Geral                    | Simulações, IA, criptografia                  |
+É importante destacar a diferença entre a computação quântica e os computadores quânticos. Enquanto os computadores quânticos ainda estão em fase de desenvolvimento, 
+a computação quântica, que pode ser realizada por meio de simulações em computadores clássicos, especialmente através de plataformas de computação em nuvem, já está disponível há alguns anos. 
+Contudo, as simulações são limitadas a algumas dezenas de qubits devido ao aumento exponencial dos requisitos computacionais. Para aumentar o número de qubits simulados, 
+seria necessário escalar significativamente a capacidade de processamento dos computadores clássicos. Por exemplo, estima-se que simular 160 qubits demandaria todos os átomos de silício existentes no planeta.
+## APLICAÇÕES DOS PROCESSADORES QUÂNTICOS
+A Computação Quântica tem sido utilizada em várias áreas, evidenciando sua capacidade de mudar a maneira como abordamos problemas complexos. 
+Um dos setores em evidência é o setor financeiro, onde algoritmos quânticos têm sido empregados para solucionar problemas.
+Problemas variados, tais como o preço de derivativos, a avaliação do risco de crédito e outras questões financeiras. Na área médica e farmacêutica, o uso da CQ na busca por novos 
+fármacos pode levar a progressos na prevenção e cura de enfermidades. Ademais, a área de segurança da informação tem demonstrado interesse nas possibilidades da CQ para o 
+avanço da criptografia e distribuição de chaves quânticas, uma vez que possibilita a criação de vias de comunicação seguras, onde a troca de informações é salva contra interceptações e ataques de espiões.
+Diversas tecnologias estão sendo exploradas e testadas para a criação dos qubits, incluindo o uso de elétrons, spin nuclear, íons confinados por campos eletromagnéticos, tecnologias ópticas (fótons), 
+supercondutores e semicondutores. Esta última tecnologia, em particular, alcançou um estágio avançado, permitindo a fabricação de microchips com dezenas de bilhões de transistores 
+em uma área tão pequena quanto a unha de um dedo. Grandes corporações, como Microsoft, Google e IBM, estão engajadas em uma intensa corrida para tornar seus computadores quânticos disponíveis comercialmente.
+No entanto, um dos principais desafios dessas implementações é garantir a estabilidade dos qubits. 
+Fatores como ruído eletromagnético e variações de temperatura impactam fortemente os qubits. Por isso, os computadores quânticos atualmente em desenvolvimento operam em ambientes 
+extremamente controlados, com temperaturas na faixa de milli-Kelvins, cerca de cem vezes mais frias do que o espaço sideral.
+Desta forma, a computação quântica já apresenta aplicações práticas promissoras em diversas áreas:
+- Criptografia e Segurança Digital: Algoritmos quânticos, como o de Shor, podem quebrar criptografias clássicas rapidamente.
+- Pesquisa em Medicina e Química: Modelagem molecular para desenvolvimento de novos medicamentos.
+- Otimização e Logística: Algoritmos quânticos para otimizar rotas de transporte e logística.
+- Inteligência Artificial: Processamento avançado de dados para machine learning.
+- Financeiro e Modelagem de Risco: Simulação de cenários econômicos para prever tendências de mercado.
+## DESAFIOS DA COMPUTAÇÃO QUÂNTICA
+-  Apesar do potencial revolucionário, a computação quântica enfrenta desafios significativos:
+- Decoerência e Erros: Qubits são extremamente sensíveis a interferências externas.
+- Escalabilidade: Os processadores quânticos ainda possuem poucos qubits funcionais.
+- Custos e Infraestrutura: Construção e manutenção de computadores quânticos exigem investimentos bilionários.
+- Falta de Padrões de Programação: Diferentes plataformas usam linguagens distintas.
+- Integração com Computação Clássica: Computadores quânticos precisarão ser integrados para maximizar sua utilidade.
+A questão atual gira em torno de saber se já alcançamos a chamada "supremacia quântica", termo que, aos poucos, tem sido substituído pela expressão mais inclusiva "vantagem quântica". 
+Esse conceito reflete a capacidade da computação quântica de resolver problemas que seriam inviáveis ou praticamente impossíveis para computadores clássicos. No entanto, a própria discussão sobre se 
+já atingimos ou não esse marco é secundária diante do fato de que esse debate já ocorre, o que evidencia o estágio avançado do desenvolvimento da computação quântica.
+## CONCLUSÃO
+A computação quântica é uma das áreas mais promissoras da tecnologia moderna. Seus avanços podem revolucionar setores como segurança digital, inteligência artificial e modelagem científica. 
+No entanto, desafios técnicos ainda impedem sua implementação em larga escala. O futuro da arquitetura de computadores dependerá da capacidade de superar esses desafios, 
+tornando os processadores quânticos mais acessíveis e viáveis para aplicações reais.
+## REFERÊNCIAS
+- NIELSEN, M. A.; CHUANG, I. L. Quantum Computation and Quantum Information. Cambridge University Press, 2010.
+- IBM Quantum. Qiskit Documentation. Disponível em: https://qiskit.org/documentation/.
+- GOOGLE AI. Quantum Supremacy Using a Programmable Superconducting Processor. Nature, 2019.
+- FRARE, Vitória Luiza Fernandes; ARAUJO, Ives Solano; VEIT, Eliane Angela. Uma revisão sistemática da literatura sobre o ensino de Computação Quântica. Revista Brasileira de Ensino de Física, 
+v. 46, p. e20240253, 2024.
+- DAMASCO, Ronan. Computação Quântica. Revista LIFT papers, v. 2, n. 2, 2019.

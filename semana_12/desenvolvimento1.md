@@ -34,6 +34,8 @@ os computadores quânticos podem processar múltiplas informações simultaneame
 | Componentes              | Transistores                        | Qubits (supercondutores, íons, fótons)        |
 | Memória                  | RAM, SSD                            | Estados quânticos efêmeros                    |
 | Aplicações Ideais        | Computação Geral                    | Simulações, IA, criptografia                  |
+
+
 É importante destacar a diferença entre a computação quântica e os computadores quânticos. Enquanto os computadores quânticos ainda estão em fase de desenvolvimento, 
 a computação quântica, que pode ser realizada por meio de simulações em computadores clássicos, especialmente através de plataformas de computação em nuvem, já está disponível há alguns anos. 
 Contudo, as simulações são limitadas a algumas dezenas de qubits devido ao aumento exponencial dos requisitos computacionais. Para aumentar o número de qubits simulados, 
